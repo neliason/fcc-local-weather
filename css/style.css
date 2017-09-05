@@ -1,0 +1,35 @@
+body {
+  background-color: #558C89;
+  color: white;
+  font-size: 16px;
+  padding: 20px;
+}
+
+.box {
+  background-color: #558C89;
+}
+
+#location {
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
+#description {
+  text-transform: capitalize;
+  margin-top: 8px;
+}
+
+.btn {
+  background-color: #D9853B;
+  border-color: #558C89;
+}
+
+.btn:hover {
+  background-color: #c4762f;
+  border-color: #c4762f;
+  color: white;
+}
+
+.btn:focus {
+  background-color: #D9853B;
+}
