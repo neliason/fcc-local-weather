@@ -1,3 +1,3 @@
-# fcc-local-weather
+# local-weather
 
-FreeCodeCamp Local weather Challenge
+Local weather page
